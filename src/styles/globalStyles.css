@@ -1,0 +1,19 @@
+.loading-text {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .error-text {
+    color: red;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .job-list {
+    padding: 20px;
+    overflow-y: auto;
+    max-height: 80vh; 
+  }
+  
